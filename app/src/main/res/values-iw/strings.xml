@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">פרויקט</string>
+    <string name="user_name">שם משתמש:</string>
+    <string name="register">הרשמה</string>
+    <string name="password">סיסמא:</string>
+    <string name="ConfirmPassword"> ודא סיסמא:</string>
+    <string name="birthday">תאריך לידה:</string>
+    <string name="email">אימייל:</string>
+    <string name="gender">מגדר:</string>
+    <string name="male">זכר</string>
+    <string name="female">נקבה</string>
+    <string-array name="cities">
+        <item>תל-אביב</item>
+        <item>ירושליים</item>
+        <item>חיפה</item>
+        <item>אריאל</item>
+        <item>פתח-תקווה</item>
+        <item>באר-שבע</item>
+    </string-array>
+    <string name="city">עיר:</string>
+    <string name="address">כתובת:</string>
+    <string name="profilePicture">תמונת פרופיל:</string>
+    <string name="fromCamera">מהמצלמה</string>
+    <string name="fromGallery">מהגלריה</string>
+    <string name="read">קראתי והסכמתי ל</string>
+    <string name="terms"><u>תנאי השימוש</u></string>
+    <string name="disclaimerTitle">הצהרה</string>
+    <string name="disclaimer">המידע הכלול באתר האינטרנט של shopclick ובאפליקציה לנייד ("השירות") הוא למטרות מידע כללי בלבד.
+ShopClick אינה נושאת באחריות לשגיאות או מחדלים בתכנים שבשירות.
+בשום מקרה לא תחול על ShopClick כל נזק מיוחד, ישיר, עקיף, תוצאתי או מקרי או כל נזק שהוא, בין אם במסגרת פעולה של חוזה, רשלנות או עוולה אחרת, הנובעת או בקשר לשימוש בשירות או את תוכן השירות. ShopClick שומרת לעצמה את הזכות לבצע תוספות, מחיקות או שינויים לתוכן בשירות בכל עת ללא הודעה מוקדמת.
+ShopClick אינה מתחייבת לכך שהאתר נקי מווירוסים או מרכיבים מזיקים אחרים.
+כתב ויתור זה מורשה על ידי תנאי שימוש ל- ShopClick.
+</string>
+    <string name="termsCanceled">חובה להסכים לתנאי השימוש כדי להרשם!</string>
+    <string name="passNotMatch">"הסיסמאות אינן תואמות!"</string>
+    <string name="passLessThanSixChars">"הסיסמא חייבת להיות בעלת 6 תווים לפחות!"</string>
+    <string name="loginTitle">התחבר</string>
+    <string name="RegisterLink">לא רשום?</string>
+    <string name="RegisterHere"><u> הרשם כאן</u></string>
+    <string name="UserPassError">שם משתמש וסיסמא לא תואמים!</string>
+    <string name="navProducts">מוצרים</string>
+    <string name="navCart">הסל שלי</string>
+    <string name="navAccount">החשבון שלי</string>
+    <string name="navLogout">התנתק</string>
+    <string name="navExit">יציאה</string>
+    <string name="options">תפריט</string>
+    <string name="itemAdded">המוצר נוסף לעגלה</string>
+    <string name="totalPrice">סכום כולל: </string>
+    <string name="changePassword">שנה סיסמא:</string>
+    <string name="currentPassword">סיסמא נוכחית:</string>
+    <string name="newPassword">סיסמא חדשה:</string>
+    <string name="confirmNewPassword">ודא סיסמא חדשה:</string>
+    <string name="changeProfilePicture">שנה תמונת פרופיל:</string>
+    <string name="passIncorrentError">הסיסמא אינה נכונה!</string>
+    <string name="userNameExistsError">שם המשתמש כבר תפוס!</string>
+    <string name="detailsUpdated">הפרטים עודכנו בהצלחה</string>
+
+
+
+
+
+
+
+</resources>

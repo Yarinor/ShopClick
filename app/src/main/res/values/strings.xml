@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ShopClick</string>
+    <string name="registeration">Registration</string>
+    <string name="user_name">Username:</string>
+    <string name="password">Password:</string>
+    <string name="ConfirmPassword"> Confirm password:</string>
+    <string name="birthday">Date of birth:</string>
+    <string name="email">Email:</string>
+    <string name="gender">Gender:</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string-array name="cities">
+        <item>Tel-Aviv</item>
+        <item>Jerusalem</item>
+        <item>Haifa</item>
+        <item>Ariel</item>
+        <item>Pethea-Tikva</item>
+        <item>Beher-Sheva</item>
+    </string-array>
+    <string name="city">City:</string>
+    <string name="address">Address:</string>
+    <string name="profilePicture">Profile picture:</string>
+    <string name="fromCamera">From camera</string>
+    <string name="fromGallery">From gallery</string>
+    <string name="register">Register</string>
+    <string name="cancel">Cancel</string>
+    <string name="read">I have read and accepted the</string>
+    <string name="terms"><u>terms and conditions</u></string>
+    <string name="disclaimerTitle">Disclaimer</string>
+    <string name="disclaimer">The information contained on the shopclick website and mobile app (the "Service") is for general information purposes only.
+ShopClick assumes no responsibility for errors or omissions in the contents on the Service.
+In no event shall ShopClick be liable for any special, direct, indirect, consequential, or incidental damages or any damages whatsoever, whether in an action of contract, negligence or other tort, arising out of or in connection with the use of the Service or the contents of the Service. ShopClick reserves the right to make additions, deletions, or modification to the contents on the Service at any time without prior notice.
+ShopClick does not warrant that the website is free of viruses or other harmful components.
+This Disclaimer is licensed by TermsFeed to ShopClick.
+</string>
+    <string name="agree">Accept</string>
+    <string name="disagree">Reject</string>
+    <string name="termsCanceled">You must agree to the terms and conditions before registering!</string>
+    <string name="passNotMatch">"The passwords do not match!"</string>
+    <string name="passLessThanSixChars">"The password must be at least 6 characters long! "</string>
+    <string name="loginTitle">Login</string>
+    <string name="RegisterLink">Not registered? </string>
+    <string name="RegisterHere"><u>Register here</u></string>
+    <string name="UserPassError">Username and Password dont match!</string>
+    <string name="navProducts">Products</string>
+    <string name="navCart">My cart</string>
+    <string name="navAccount">My account</string>
+    <string name="navLogout">Logout</string>
+    <string name="navExit">Exit</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="options">Menu</string>
+    <string name="itemAdded">Product added to cart</string>
+    <string name="totalPrice">Total price: </string>
+    <string name="totalAmount">Total amount: </string>
+    <string name="changePassword">Change password:</string>
+    <string name="currentPassword">Current password:</string>
+    <string name="newPassword">New password:</string>
+    <string name="confirmNewPassword"> Comfirm new password:</string>
+    <string name="change">Change</string>
+    <string name="changeProfilePicture">Change profile Picture:</string>
+    <string name="save">Save</string>
+    <string name="passIncorrentError">The password is incorrect!</string>
+    <string name="userNameExistsError">Username already taken!</string>
+    <string name="detailsUpdated">Details updated sucessfully</string>
+
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
